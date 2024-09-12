@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(195, 194, 139);
+    text-align: center;
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-shadow: #fff 1px 0 10px;
+    font-size: 60px;
+}
+img{
+    height: 600px;
+    width: 900px;
+}
+.about{
+    color: rgb(216, 17, 17);
+    font-weight: bold;
+
+}
+.box{
+    background-color: rgb(227, 226, 164);
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;
+    border-color: black;
+    border-style: solid;
+    box-shadow: 17px 10px 20px black;
+}
+h3{
+    text-align: left;
+}
+.para{
+    text-align: left;
+}
